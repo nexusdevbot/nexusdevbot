@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F7FD5&center=true&vCenter=true&width=500&lines=Building+automation+that+runs+itself;Telegram+bots+%2B+Cloudflare+Workers;If+it+runs+twice%2C+I+script+it)](https://github.com/nexusdevbot)
 
+[![Telegram](https://img.shields.io/badge/Telegram-%40nexusweb__dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fnexusweb_dev)](https://t.me/nexusweb_dev)
+
 </div>
 
 ## ⚡ About Me
