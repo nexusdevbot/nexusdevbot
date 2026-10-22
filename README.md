@@ -32,7 +32,11 @@ motto: "Clear. Fast. Correct. Useful."
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nexusdevbot&theme=discord&no-frame=true&no-bg=true&margin-w=8" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nexusdevbot&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nexusdevbot&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nexusdevbot&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nexusdevbot&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nexusdevbot&theme=tokyonight" width="32%"/>
 
 </div>
 
@@ -44,6 +48,8 @@ motto: "Clear. Fast. Correct. Useful."
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexusdevbot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 
 <br/>
+
+![streak](https://streak-stats.demolab.com?user=nexusdevbot&theme=tokyonight&hide_border=true&locale=en&background=0D1117&border=8A2BE2&ring=00D9FF&fire=00FFA3&currStreakLabel=00D9FF)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nexusdevbot&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=8A2BE2&point=00FFA3&area=true&area_color=8A2BE2" width="100%"/>
 
