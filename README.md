@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=180&section=header&text=NEXUSDEV&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Automation%20%E2%80%A2%20Bots%20%E2%80%A2%20Infra&descSize=18&descAlignY=55&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:8A2BE2,50:00D9FF,100:00FFA3&height=200&section=header&text=NEXUSDEV&fontSize=58&fontColor=ffffff&fontAlignY=32&desc=Automation%20%E2%80%A2%20Bots%20%E2%80%A2%20Infrastructure&descSize=18&descAlignY=55&descColor=00D9FF&stroke=8A2BE2&strokeWidth=2" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F7FD5&center=true&vCenter=true&width=500&lines=Building+automation+that+runs+itself;Telegram+bots+%2B+Cloudflare+Workers;If+it+runs+twice%2C+I+script+it)](https://github.com/nexusdevbot)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Building+automation+that+runs+itself;Telegram+bots+%2B+Cloudflare+Workers;If+it+runs+twice%2C+I+script+it)](https://github.com/nexusdevbot)
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40nexusweb__dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fnexusweb_dev)](https://t.me/nexusweb_dev)
+[![Telegram](https://img.shields.io/badge/Telegram-%40nexusweb__dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fnexusweb_dev)](https://t.me/nexusweb_dev) [![GitHub](https://img.shields.io/badge/GitHub-nexusdevbot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nexusdevbot)
 
 </div>
 
@@ -18,18 +18,21 @@ stack: [Python, Node.js, Cloudflare Workers, Linux, Git]
 motto: "Clear. Fast. Correct. Useful."
 ```
 
-## 🛠️ Tech & Tools
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,js,typescript,linux,docker,cloudflare,git,nginx,redis,postgres,ubuntu,bash,vscode,py&perline=8&theme=dark" />
+</a>
+
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nexusdevbot&theme=discord&no-frame=true&no-bg=true&margin-w=8" width="100%"/>
 
 </div>
 
@@ -37,12 +40,23 @@ motto: "Clear. Fast. Correct. Useful."
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nexusdevbot&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexusdevbot&layout=compact&theme=merko&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nexusdevbot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&icon_color=00D9FF&title_color=00D9FF&text_color=FFFFFF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexusdevbot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 
-![streak](https://streak-stats.demolab.com?user=nexusdevbot&theme=merko&hide_border=true&locale=en)
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nexusdevbot&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nexusdevbot&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=8A2BE2&point=00FFA3&area=true&area_color=8A2BE2" width="100%"/>
+
+</div>
+
+## 🌐 3D Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nexusdevbot/nexusdevbot/output/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img alt="3d graph" src="https://raw.githubusercontent.com/nexusdevbot/nexusdevbot/output/profile-3d-contrib/profile-green-animate.svg" width="100%"/>
+</picture>
 
 </div>
 
@@ -58,5 +72,5 @@ motto: "Clear. Fast. Correct. Useful."
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:00D9FF,100:00FFA3&height=4&section=footer" width="100%"/>
 </div>
