@@ -1,82 +1,88 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:8A2BE2,50:00D9FF,100:00FFA3&height=200&section=header&text=NEXUSDEV&fontSize=58&fontColor=ffffff&fontAlignY=32&desc=Automation%20%E2%80%A2%20Bots%20%E2%80%A2%20Infrastructure&descSize=18&descAlignY=55&descColor=00D9FF&stroke=8A2BE2&strokeWidth=2" width="100%"/>
+<img src="./assets/header.svg" alt="NEXUSDEV — Build. Automate. Simplify." width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Building+automation+that+runs+itself;Telegram+bots+%2B+Cloudflare+Workers;If+it+runs+twice%2C+I+script+it)](https://github.com/nexusdevbot)
+### Kode yang berguna. Proses yang lebih sederhana.
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40nexusweb__dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fnexusweb_dev)](https://t.me/nexusweb_dev) [![GitHub](https://img.shields.io/badge/GitHub-nexusdevbot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nexusdevbot)
+Membangun bot, otomasi, dan infrastruktur untuk menyelesaikan pekerjaan nyata.
 
-</div>
+<a href="https://t.me/nexusweb_dev"><img src="https://img.shields.io/badge/Telegram-%40nexusweb__dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Hubungi NEXUSDEV lewat Telegram" /></a>
+<a href="https://github.com/nexusdevbot?tab=repositories"><img src="https://img.shields.io/badge/Jelajahi_Repositori-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Jelajahi repositori nexusdevbot" /></a>
 
-## ⚡ About Me
-
-```yaml
-name: NEXUSDEV
-role: Developer & Automation Engineer
-focus: [bot development, infra automation, web scraping]
-stack: [Python, Node.js, Cloudflare Workers, Linux, Git]
-motto: "Clear. Fast. Correct. Useful."
-```
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,js,typescript,linux,docker,cloudflare,git,nginx,redis,postgres,ubuntu,bash,vscode,py&perline=8&theme=dark" />
-</a>
+[Profil](#tentang-saya) · [Teknologi](#teknologi) · [Aktivitas](#aktivitas) · [Kontak](#mari-terhubung)
 
 </div>
 
-## 🏆 Achievements
+## Tentang saya
 
-<div align="center">
+Saya **NEXUSDEV**, pengembang yang senang menghubungkan kode dengan kebutuhan sehari-hari. Fokus saya ada pada **bot Telegram**, **otomasi alur kerja**, dan **pengelolaan infrastruktur Linux**.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nexusdevbot&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nexusdevbot&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nexusdevbot&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nexusdevbot&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nexusdevbot&theme=tokyonight" width="32%"/>
+Saya suka solusi yang mudah dipahami, bisa diuji, dan praktis digunakan. Kalau sebuah pekerjaan berulang, saya mencari cara agar kode yang menanganinya.
 
-</div>
+| Bidang | Yang saya kerjakan |
+| :--- | :--- |
+| **Bot & integrasi** | Bot Telegram, integrasi API, dan layanan pendukung. |
+| **Otomasi** | Alur kerja untuk mengurangi tugas manual yang berulang. |
+| **Infrastruktur** | VPS Linux, layanan server, dan Cloudflare Workers. |
+| **Eksperimen** | Menjelajahi perangkat AI dan cara menghubungkannya ke aplikasi. |
 
-## 📊 GitHub Stats
+## Teknologi
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nexusdevbot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&icon_color=00D9FF&title_color=00D9FF&text_color=FFFFFF"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexusdevbot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-
-<br/>
-
-![streak](https://streak-stats.demolab.com?user=nexusdevbot&theme=tokyonight&hide_border=true&locale=en&background=0D1117&border=8A2BE2&ring=00D9FF&fire=00FFA3&currStreakLabel=00D9FF)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nexusdevbot&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=8A2BE2&point=00FFA3&area=true&area_color=8A2BE2" width="100%"/>
-
-</div>
-
-## 🌐 3D Contribution Graph
-
-<div align="center">
+Perangkat yang mendukung pekerjaan saya, dari skrip sampai layanan server.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nexusdevbot/nexusdevbot/output/profile-3d-contrib/profile-night-rainbow.svg" />
-  <img alt="3d graph" src="https://raw.githubusercontent.com/nexusdevbot/nexusdevbot/output/profile-3d-contrib/profile-green-animate.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,nodejs,javascript,typescript,linux,bash,cloudflare,git,nginx&amp;perline=9&amp;theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,javascript,typescript,linux,bash,cloudflare,git,nginx&amp;perline=9&amp;theme=light" alt="Python, Node.js, JavaScript, TypeScript, Linux, Bash, Cloudflare, Git, Nginx" />
 </picture>
 
-</div>
+## Aktivitas
 
-## 🐍 Contribution Snake
+Ringkasan kontribusi publik di GitHub. Grafik diperbarui oleh layanan statistik dan alur kerja repositori ini.
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nexusdevbot&amp;theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nexusdevbot&amp;theme=github" alt="Ringkasan aktivitas GitHub nexusdevbot" width="100%" />
+</picture>
+
+<details>
+<summary><strong>Lihat statistik & bahasa pemrograman</strong></summary>
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nexusdevbot&amp;theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nexusdevbot&amp;theme=github" alt="Statistik kontribusi publik" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nexusdevbot&amp;theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nexusdevbot&amp;theme=github" alt="Bahasa pemrograman dalam repositori publik" width="49%" />
+</picture>
+
+</details>
+
+### Jejak kontribusi
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nexusdevbot/nexusdevbot/output/github-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/nexusdevbot/nexusdevbot/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/nexusdevbot/nexusdevbot/output/github-snake.svg" alt="Animasi ular mengikuti kontribusi GitHub" width="100%" />
 </picture>
 
-</div>
+<details>
+<summary><strong>Jelajahi kontribusi dalam 3D</strong></summary>
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nexusdevbot/nexusdevbot/output/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/nexusdevbot/nexusdevbot/output/profile-3d-contrib/profile-green-animate.svg" alt="Grafik kontribusi GitHub tiga dimensi" width="100%" />
+</picture>
+
+</details>
+
+## Mari terhubung
+
+Punya ide, ingin membahas otomasi, atau tertarik bekerja sama? Sapa saya di **[Telegram — @nexusweb_dev](https://t.me/nexusweb_dev)**.
+
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:00D9FF,100:00FFA3&height=4&section=footer" width="100%"/>
+<sub><strong>NEXUSDEV</strong> · Pahami masalahnya. Bangun solusinya. Uji hasilnya.</sub>
 </div>
